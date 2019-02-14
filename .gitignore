@@ -2,3 +2,7 @@ node_modules
 lib
 dist
 .cache
+README-old.md
+.graphql_ppx_cache
+.bsb.lock
+.merlin
