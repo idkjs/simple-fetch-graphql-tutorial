@@ -6,3 +6,4 @@ README-old.md
 .graphql_ppx_cache
 .bsb.lock
 .merlin
+.DS_Store
